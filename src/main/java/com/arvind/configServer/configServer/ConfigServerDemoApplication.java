@@ -10,6 +10,7 @@ public class ConfigServerDemoApplication {
 
 	public static void main(String[] args) {
 		//adding dec
+		System.out.println("Starting config server");
 		SpringApplication.run(ConfigServerDemoApplication.class, args);
 	}
 
