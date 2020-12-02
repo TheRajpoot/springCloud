@@ -9,6 +9,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 public class ConfigServerDemoApplication {
 
 	public static void main(String[] args) {
+		//adding dec
 		SpringApplication.run(ConfigServerDemoApplication.class, args);
 	}
 
